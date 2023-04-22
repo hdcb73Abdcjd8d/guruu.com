@@ -1,0 +1,125 @@
+.bgcolor{
+    background-image: url("https://media.istockphoto.com/id/1279965605/photo/pink-orchids-with-white-flowers-on-grey-background-with-copyspace-minimalistic-floral.jpg?s=612x612&w=0&k=20&c=XiF9GBae0p06xx2lr-4Rkmnh2yiFZ9WbjpGYdUgTLxk=");
+    height:100vh;
+    background-size: cover;
+    text-align: right;
+}
+.page1insidecontainer{
+    background-image:radial-gradient(rgb(242, 244, 248),rgb(151, 172, 213));
+    text-align: left;
+    border-radius: 26px;
+}
+.page1heading{
+    font-family: 'Roboto';
+    font-size: 29px;
+    font-weight: bold;
+    color:rgb(61, 60, 60);
+}
+.page1para1{
+    font-family: 'Roboto';
+    font-size: 18px;
+    color:rgb(61, 60, 60);
+}
+.page1para2{
+    font-family: 'Roboto';
+    font-size: 17px;
+    color:rgb(61, 60, 60);
+
+}
+
+
+.page2bgimage{
+    background-image:url("https://media.istockphoto.com/id/1174728428/photo/baby-girl-pointing-her-finger-excited-and-emotional-on-neutral-background.jpg?b=1&s=170667a&w=0&k=20&c=J9mPftDWMon0LoIE9IPc_gVTspmmLL4fzplg1b1rndo=");
+    background-size: cover;
+    height: 100vh;
+    border-radius: 0px;
+    border-width: 3px;
+    border-color: rgb(0, 114, 122);
+    border-style:dotted;
+}
+.page2insidecontainer{
+    background-image:radial-gradient(rgb(241, 244, 243),rgb(234, 174, 210));
+    text-align:center;
+    border-radius: 26px;
+}
+.page2heading{
+    font-family: 'Roboto';
+    font-size: 29px;
+    font-weight: bold;
+    color:rgb(66, 65, 62);
+}
+.page2iconstyle{
+    text-align: center;
+}
+.modell{
+    background-image: radial-gradient(rgb(241, 244, 243),rgb(250, 238, 76));
+    text-align: left;
+}
+
+
+
+
+.bgforpage3{
+    background-image: url("https://thumbs.dreamstime.com/b/woman-hands-pointing-index-finger-to-each-other-towards-center-female-hands-show-something-virtual-invisible-woman-hands-246084397.jpg");
+    height:100vh;
+    background-size: cover;
+    text-align: center;
+    
+}
+.page3insidecon{
+    text-align: center;
+    background-image:radial-gradient(rgb(242, 244, 248),rgb(245, 237, 80));
+    border-radius: 16px;
+}
+.marginn{
+    margin:32%;
+}
+.textstyle{
+    font-family: "Roboto";
+    font-size: 29px;
+}
+.page3imagestyling{
+    height:50%;
+    width:50%;
+}
+
+
+.page4bgimage{
+    height:80vh;
+}
+.page4alignment{
+    text-align: center;
+    background-image:radial-gradient(rgb(242, 244, 248),rgb(87, 93, 92));
+    background-size: cover;
+}
+
+
+.page5bg1{
+    background-image:radial-gradient(rgb(242, 244, 248),rgb(136, 214, 214));
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding: 10%;
+}
+.page5bg2{
+    border-radius: 16px;
+}
+.page5heading{
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: bold;
+}
+.para1page5{
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+.para2page5{
+    font-family: "Roboto";
+    font-size: 18px;
+
+}
+
+
+
+
